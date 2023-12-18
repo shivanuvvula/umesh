@@ -12,4 +12,5 @@ class AutomatiNumber
 	else
 	System.out.println("Not Automatic Number");	
 	}
+	System.out.println("hello umesh");
 }
